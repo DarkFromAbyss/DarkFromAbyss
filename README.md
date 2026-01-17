@@ -1,4 +1,13 @@
-## Hi there 👋
+<body>  
+    <center>
+        <h1>Welcome to My Profile</h1>
+        <p>This is a simple HTML page with linked CSS for styling.</p>  
+    <a>
+        <img src ="https://64.media.tumblr.com/3d35bc9dafb36f08546f9a4cd4c6a0be/e9150f291caf1871-d0/s540x810/af8f1915ce59119fdb725cc54c3e718942e00e95.gifv" alt="Sample Image" width="600" height="400">
+    </a>    
+    </center>
+</body>
+
 
 <!--
 **DarkFromAbyss/DarkFromAbyss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
