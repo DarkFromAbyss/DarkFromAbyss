@@ -1,5 +1,5 @@
 # WELCOME TO MY PROFILE
-![MIKU](https://www.pinterest.com/pin/1055599908914035/)
+![MIKU](https://media1.tenor.com/m/0FNWFqBkPBwAAAAd/anime-go.gif)
 
 <!--
 **DarkFromAbyss/DarkFromAbyss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
